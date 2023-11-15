@@ -1,0 +1,7 @@
+.Error{
+    color: aqua;
+    background-color: yellow;
+    text-align: left;
+    font-style: italic;
+    font-weight: bold;
+}

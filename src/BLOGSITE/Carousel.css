@@ -1,0 +1,14 @@
+.carousel-control-prev-icon{
+    background-image: url(arrow-left.svg) !important;
+    margin-left: -350px;
+}
+
+.carousel-control-next-icon{
+    background-image: url(arrow-right.svg) !important;
+    margin-right: -350px;
+}
+
+.Recent{
+    margin-top: 50px;
+    margin-left: 10px;
+}

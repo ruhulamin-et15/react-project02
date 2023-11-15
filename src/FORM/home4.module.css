@@ -1,0 +1,10 @@
+.container{
+    flex-direction: column;
+    background-color: green;
+    min-height: 100vh;
+    height: 100%;
+    display: flex;
+    margin: 20px;
+    align-items: center;
+    border-radius: 10px;
+}

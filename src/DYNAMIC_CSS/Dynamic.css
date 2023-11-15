@@ -1,0 +1,13 @@
+input{
+    border-radius: 0.6rem;
+    margin: 0.6rem;
+    padding: 0.6rem;
+}
+
+.invalid{
+    background-color: red;
+}
+
+.valid{
+    background-color: green;
+}

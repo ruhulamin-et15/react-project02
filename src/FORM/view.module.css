@@ -1,0 +1,8 @@
+.view{
+    background-color: aqua;
+    width: 450px;
+    height: 100%;
+    padding: 0.5rem;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
