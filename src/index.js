@@ -1,16 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-// import App from './App';
 import "font-awesome/css/font-awesome.min.css";
-import "./index.css";
-// import TodoApp from "./TodoApp";
-// import CountryMain from './CountryMain';
+import Home4 from "./FORM/Home4";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root
-  .render
-  // <React.StrictMode>
-  // <CountryMain/>
-  // <TodoApp />
-  // </React.StrictMode>
-  ();
+root.render(
+  <React.StrictMode>
+    <Home4 />
+  </React.StrictMode>
+);
