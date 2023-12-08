@@ -1,7 +1,7 @@
 import React from "react";
 import { useState } from "react";
 
-const HookUseEffect = () => {
+const UseState = () => {
   const [count, setCount] = useState(0);
   return (
     <div>
@@ -31,4 +31,4 @@ const HookUseEffect = () => {
   );
 };
 
-export default HookUseEffect;
+export default UseState;
